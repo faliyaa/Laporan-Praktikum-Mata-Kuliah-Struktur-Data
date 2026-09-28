@@ -70,11 +70,11 @@ int main() {
 
 #### Output 1
 
-[!Screenshot Output Unguided 1_1](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided1-1.png)
+[!Screenshot Output Unguided 1_1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided1-1.png)
 
 #### Output 2
 
-![Screenshot Output Unguided 1_2](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided1-2.png)
+![Screenshot Output Unguided 1_2](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided1-2.png)
 
 **Penjelasan Unguided 1:**
 
@@ -138,11 +138,11 @@ int main() {
 
 #### Output 1
 
-![Screenshot Output Unguided 2_1](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided2-1.png)
+![Screenshot Output Unguided 2_1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided2-1.png)
 
 #### Output 2
 
-![Screenshot Output Unguided 2_2](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided2-2.png)
+![Screenshot Output Unguided 2_2](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided2-2.png)
 
 **Penjelasan Unguided 2:**
 
@@ -193,11 +193,11 @@ int main() {
 
 #### Output 1
 
-![Screenshot Output Unguided 3_1](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided3-1.png)
+![Screenshot Output Unguided 3_1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided3-1.png)
 
 #### Output 2
 
-![Screenshot Output Unguided 3_2](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided3-2.png)
+![Screenshot Output Unguided 3_2](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-1/output/Output-Unguided3-2.png)
 
 **Penjelasan Unguided 3:**
 
