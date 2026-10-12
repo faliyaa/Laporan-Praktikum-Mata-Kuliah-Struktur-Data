@@ -251,7 +251,7 @@ int main() {
 ```
 
 **Output Unguided 2**
-![Screenshot Output Unguided 2](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-3/output/Output-Unguided-2.png)
+![Screenshot Output Unguided 2](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-3/output/Output-Unguided-2.png)
 
 **Penjelasan**
 
@@ -340,8 +340,7 @@ int main() {
 ```
 
 **Output Unguided 3**
-![Screenshot Output Unguided 3](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-3/output/Output-Unguided-3.png)
-
+![Screenshot Output Unguided 3](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-3/output/Output-Unguided-3.png)
 
 **Penjelasan**
 
