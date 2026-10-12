@@ -102,7 +102,7 @@ int main() {
 Pada program utama, variabel `mhs` dibuat dengan tipe `mahasiswa`. Setelah itu, `inputMhs(mhs)` dipanggil untuk menerima NIM dan dua nilai dari pengguna. Ketika input selesai, `rata2(mhs)` menghitung nilai rata-rata dan hasilnya ditampilkan lewat `cout`. Ketiga file ini perlu dikompilasi bersama agar program bisa dijalankan, karena `main.cpp` menggunakan fungsi yang implementasinya ada di `mahasiswa.cpp`.
 
 **Contoh output Guided**
-[!Screenshot Output Guided 1](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-3/output/Output-Guided-1.png)
+[!Screenshot Output Guided 1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-3/output/Output-Guided-1.png)
 
 
 ## Unguided
