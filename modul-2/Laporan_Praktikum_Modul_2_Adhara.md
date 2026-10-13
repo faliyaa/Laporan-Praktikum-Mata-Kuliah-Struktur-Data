@@ -410,7 +410,7 @@ int main() {
 }
 ```
 ### Output Unguided 1 :
-[!Screenshot Output Unguided 1](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-2/output/Output-Unguided-1.png)
+![Screenshot Output Unguided 1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-2/output/Output-Unguided-1.png)
 
 Program ini mengerjakan tiga operasi pada dua matriks 3×3: tambah, kurang, dan kali. Agar kodenya tidak menumpuk di `main`, setiap pekerjaan dipisah menjadi fungsi tersendiri, yaitu `bacaMatriks`, `tampilMatriks`, `jumlahMatriks`, `kurangMatriks`, dan `kaliMatriks`. Ukuran matriks disimpan dalam konstanta `UKURAN` sehingga mudah diubah.
 
@@ -454,7 +454,7 @@ int main() {
 }
 ```
 ### Output Unguided 2 :
-[!Screenshot Output Unguided 2](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-2/output/Output-Unguided-2.png)
+![Screenshot Output Unguided 2](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-2/output/Output-Unguided-2.png)
 
 Program ini menukar tiga variabel dengan *call by pointer*. Pertukaran dibangun dari dua langkah menukar dua variabel. Fungsi `tukarDua` menukar isi dua alamat memakai variabel `sementara`. Fungsi `tukar` memanggilnya dua kali: pertama menukar `a` dengan `b` (urutan menjadi 20, 10, 30), lalu menukar `b` dengan `c` (urutan menjadi 20, 30, 10).
 
@@ -536,7 +536,7 @@ int main() {
 }
 ```
 ### Output Unguided 3 :
-[!Screenshot Output Unguided 3](https://github.com/faliyaaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-2/output/Output-Unguided-3.png)
+![Screenshot Output Unguided 3](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-2/output/Output-Unguided-3.png)
 
 Program ini mengolah sebuah array berisi sepuluh angka (11, 8, 5, 7, 12, 26, 3, 54, 33, 55) lewat menu interaktif. Fungsi `cariMinimum()` dan `cariMaksimum()` menelusuri array sambil menyimpan nilai terkecil/terbesar yang ditemukan, lalu mengembalikannya. Prosedur `hitungRataRata()` menjumlahkan seluruh elemen, membaginya dengan banyak data, dan langsung mencetak hasilnya tanpa nilai balik.
 
