@@ -508,7 +508,7 @@ Program utama membuat lima node buah, yaitu Jeruk, Apel, Pir, Semangka, dan Duri
 **Catatan saat menjalankan:** `updateFirst()`, `updateLast()`, dan `updateAfter()` meminta input dari pengguna. Nama buah dimasukkan tanpa spasi karena kode menggunakan `cin >>`. Hasil pencarian nama `kelapa` bergantung pada data yang dimasukkan saat proses update.
 
 **Output Guided**
-![Screenshot Output Guided 1]()
+![Screenshot Output Guided 1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-5/output/Output-Guided-1.png)
 
 ## Unguided
 
@@ -642,7 +642,7 @@ int main() {
 **Penjelasan:** Program membuat lima node berisi `2`, `0`, `8`, `12`, dan `9`. Karena setiap node dimasukkan dengan `insertFirst()`, nilai yang dimasukkan belakangan akan berada di depan. Hasil akhirnya adalah `9 12 8 0 2`. Bagian akhir program membebaskan seluruh node yang telah dibuat.
 
 #### Output Soal 1
-![Screenshot Output Unguided 1]()
+![Screenshot Output Unguided 1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-5/output/Output-Unguided-1.png)
 
 ### 2. Soal 2 — Mencari Elemen dengan Nilai 8
 
@@ -836,7 +836,7 @@ int main() {
 ```
 
 #### Output Soal 2
-![Screenshot Output Unguided 2]()
+![Screenshot Output Unguided 2](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-5/output/Output-Unguided-2.png)
 
 **Penjelasan Soal 2:** List tetap berisi `9 12 8 0 2`. Fungsi `findElm()` berhasil menemukan node dengan nilai `8`, kemudian program menampilkan pesan bahwa nilai tersebut ditemukan. Jika nilai yang dicari tidak ada, program akan menampilkan pesan bahwa data tidak ditemukan.
 
@@ -1042,7 +1042,7 @@ int main() {
 ```
 
 #### Output Soal 3 — Program Gabungan Akhir
-![Screenshot Output Unguided 3]()
+![Screenshot Output Unguided 3](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-5/output/Output-Unguided-3.png)
 
 **Penjelasan Soal 3:** Setelah fungsi `findElm()` dari Soal 2 tersedia, fungsi `totalInfo()` ditambahkan untuk menjumlahkan nilai semua node. Program akhir tetap menampilkan isi list, memeriksa keberadaan nilai `8`, lalu menghitung total semua nilai. Hasil akhirnya adalah `31`, sesuai dengan contoh pada halaman 50 modul.
 
