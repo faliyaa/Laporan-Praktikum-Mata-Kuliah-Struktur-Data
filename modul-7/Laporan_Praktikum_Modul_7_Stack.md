@@ -370,7 +370,7 @@ balik stack
 ```
 ##### Output 2
 Output yang dihasilkan setelah program dijalankan:
-
+https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-7/output/Output-Unguided-1.png
 
 Penjelasan output:
 
@@ -540,7 +540,7 @@ balik stack
 ```
 ##### Output 2
 Output yang dihasilkan setelah program dijalankan:
-
+https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-7/output/Output-Unguided-2.png
 
 Penjelasan output:
 
@@ -705,7 +705,7 @@ balik stack
 ```
 ##### Output 2
 Output yang dihasilkan setelah program dijalankan:
-
+https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-7/output/Output-Unguided-3.png
 
 Penjelasan output:
 
