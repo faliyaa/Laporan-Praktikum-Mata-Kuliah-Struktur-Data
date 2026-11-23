@@ -712,7 +712,7 @@ int main() {
 ```
 
 ### Output Unguided 2 :
-https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-8/output/Output-Unguided-2.png
+![Screenshot Output Unguided 2_1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-8/output/Output-Unguided-2.png)
 
 Pada Unguided 2 ini kita menerapkan **Alternatif 2**, di mana `head` dan `tail` sama-sama bisa bergerak. Bedanya dengan Alternatif 1 langsung terasa di fungsi `dequeue`: waktu data paling depan diambil ke variabel `x`, kita tidak perlu menggeser isi array sama sekali. Kalau datanya tinggal satu (`Q.head == Q.tail`), kita reset pakai `createQueue(Q)`, sedangkan kalau masih ada sisa elemen lain, cukup majukan indeks `Q.head++`.
 
@@ -854,7 +854,7 @@ int main() {
 ```
 
 ### Output Unguided 3 :
-https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-8/output/Output-Unguided-3.png
+![Screenshot Output Unguided 3_1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-8/output/Output-Unguided-3.png)
 
 Pada Unguided 3 ini kita menggunakan **Alternatif 3 (Circular Queue)** supaya tidak perlu lagi melakukan pergeseran elemen seperti di Alternatif 1 maupun saat penuh semu di Alternatif 2. Di `queue.h`, ukuran array disimpan dalam konstanta `MAKSIMAL = 5` agar lebih rapi saat dipakai di perhitungan modulo. Kunci utamanya ada pada operasi `% MAKSIMAL`: di `isFullQueue`, antrean dianggap penuh kalau satu posisi setelah `tail` sudah bertemu `head` (`(Q.tail + 1) % MAKSIMAL == Q.head`). Saat `enqueue`, `tail` dimajukan melingkar dengan `(Q.tail + 1) % MAKSIMAL`, dan begitu pula saat `dequeue`, `head` maju dengan `(Q.head + 1) % MAKSIMAL` kecuali jika elemen tinggal satu yang langsung di-reset lewat `createQueue(Q)`.
 
