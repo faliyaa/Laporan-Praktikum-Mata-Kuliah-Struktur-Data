@@ -567,7 +567,7 @@ int main() {
 ```
 
 ### Output Unguided 1 :
-https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-8/output/Output-Unguided-1.png
+![Screenshot Output Unguided 1_1](https://github.com/faliyaa/Laporan-Praktikum-Mata-Kuliah-Struktur-Data/blob/main/modul-8/output/Output-Unguided-1.png)
 
 Pada Unguided 1 ini kita menerapkan mekanisme **Alternatif 1**, di mana posisi `head` selalu diam di indeks `0` selama antrean ada isinya, dan hanya `tail` yang bergerak. Di dalam `queue.h`, kita siapkan `struct Queue` dengan array `info[5]` bertipe `int` serta `head` dan `tail`. Saat `enqueue` dipanggil di `queue.cpp`, program mengecek dulu apakah `tail` sudah mencapai indeks `4` lewat `isFullQueue`. Kalau belum penuh dan antreannya masih kosong, `head` dan `tail` langsung diset ke `0`; kalau sudah ada isinya, cukup `tail` saja yang dinaikkan lalu datanya dimasukkan ke `Q.info[Q.tail]`.
 
